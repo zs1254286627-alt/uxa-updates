@@ -1,0 +1,14 @@
+{
+  "schemaVersion": 1,
+  "pause": false,
+  "latest": {
+    "version": "0.3.1",
+    "force": false,
+    "notes": [],
+    "frontend": {
+      "url": "https://raw.githubusercontent.com/zs1254286627-alt/uxa-updates/main/releases/0.3.1/frontend-0.3.1-d9624433.zip",
+      "size": 1059048,
+      "sha256": "d9624433d493cac6629733be1e7a5d0df1c4e51d125f56b50a0f0902eea0b3ee"
+    }
+  }
+}
